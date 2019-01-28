@@ -1,0 +1,4 @@
+main calls read_input
+read_input calls scanf
+scanf calls parse
+parse calls scanf

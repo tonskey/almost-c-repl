@@ -1,0 +1,3 @@
+strcpy calls memcpy
+memcpy calls malloc
+malloc calls strcpy

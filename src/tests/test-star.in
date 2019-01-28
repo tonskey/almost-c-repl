@@ -1,0 +1,3 @@
+main calls malloc
+main calls strcpy
+main calls sort
